@@ -1,6 +1,6 @@
 import os
 
-class Writter:
+class Writer:
     
     
     def create_file(self, path: str)-> bool:
